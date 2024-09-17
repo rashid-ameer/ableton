@@ -581,7 +581,7 @@ body {
 
 /* Hero component */
 .hero {
-  background: url(../Images/header.jpg);
+  background: url(../images/header.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
